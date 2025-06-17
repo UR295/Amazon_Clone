@@ -8,7 +8,7 @@ A responsive Amazon homepage clone using only HTML and CSS. Deployed on Vercel.
 🔗 [View Live on Vercel]([https://your-vercel-link.vercel.app](https://amazon-clone-seven-red.vercel.app/))
 
 ## ☺️clone
-🔗 
+🔗 https://github.com/UR295/Amazon_Clone.git
 
 ## 📂 Repository
 🔗 [GitHub Repository](https://github.com/UR295/Amazon_clone)
@@ -18,7 +18,7 @@ A responsive Amazon homepage clone using only HTML and CSS. Deployed on Vercel.
 ## 👨‍💻 Author
 
 Urbi Purohit
-🔗 GitHub: [UrbiPurohit](https://github.com/UR295)  
+🔗 GitHub: [UR295](https://github.com/UR295)  
 
 ---
 
@@ -28,6 +28,7 @@ Urbi Purohit
 - ✅ CSS3  
 - ✅ Font Awesome  
 - ✅ Vercel (for deployment)
+- ✅ Color Picker
 
 ---
 
